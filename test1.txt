@@ -1,2 +1,3 @@
-test1 file
-new file
+test1 file is edited
+New second line is added
+Third line is added
